@@ -1,2 +1,6 @@
-2026/03/09-12:54:56.857 8680 Creating DB C:/Github/GirlyGameJam/GirlyGameJam/GirlyGameJamProject/GirlyGameJam/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/03/09-12:54:56.864 8680 Reusing MANIFEST C:/Github/GirlyGameJam/GirlyGameJam/GirlyGameJamProject/GirlyGameJam/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/10-08:56:38.905 3ba8 Reusing MANIFEST C:/Github/GirlyGameJam/GirlyGameJam/GirlyGameJamProject/GirlyGameJam/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/10-08:56:38.910 3ba8 Recovering log #3
+2026/03/10-08:56:38.911 3ba8 Reusing old log C:/Github/GirlyGameJam/GirlyGameJam/GirlyGameJamProject/GirlyGameJam/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/03/10-09:07:37.326 23c4 Level-0 table #5: started
+2026/03/10-09:07:37.329 23c4 Level-0 table #5: 63129 bytes OK
+2026/03/10-09:07:37.331 23c4 Delete type=0 #3
